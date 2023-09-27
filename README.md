@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=tavodevcode&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavodevcode)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
