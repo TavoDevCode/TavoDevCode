@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavodevcode)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" width="345" alt="img" src="https://64.media.tumblr.com/62710c9aed5c3f4b7d23700e39bf13a6/ac2a7e65e2f3ff68-50/s540x810/41fb833ef965bec6fbfb06bc9199fa0455457726.gifv](https://img.freepik.com/vector-gratis/ilustracion-vectorial-paisaje-montana_1441-72.jpg?w=826&t=st=1695850599~exp=1695851199~hmac=29897b486abec5715ec93db12e24721e55e4ba35cf77746aa35f07dca4d7d7f0)">
+<img align="left" width="345" alt="img" src="https://img.freepik.com/vector-gratis/ilustracion-vectorial-paisaje-montana_1441-72.jpg?w=826&t=st=1695850599~exp=1695851199~hmac=29897b486abec5715ec93db12e24721e55e4ba35cf77746aa35f07dca4d7d7f0">
 
 <!--
 **tavodevcode/tavodevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
