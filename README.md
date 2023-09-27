@@ -1,6 +1,6 @@
 # Hi there✌
 
-### **Hola mucho gusto, conoceme un poco más!**
+## **Hola mucho gusto, conoceme un poco más!**
 
 ---
 
@@ -8,11 +8,11 @@
 
 ```tsx
 class Message {
-	private message: string
-  
-	constructor() {
-		this.message = "Hi my name is Gustavo Hernandez Hidalgo 🍰!"
-	}
+  private message: string;
+
+  constructor() {
+    this.message = "Hi my name is Gustavo Hernandez Hidalgo 🍰!";
+  }
 
   showInConsole() {
     console.log(this.message);
@@ -24,12 +24,21 @@ class Message {
 
   showContentInHTML(elementId: string) {
     const element = document.getElementById(elementId);
-    
-		if(element === undefined) return console.error(`Element Id '${idElemento}' error 💔!`);
 
-		element.innerHTML = this.message;
+    if (element === undefined)
+      return console.error(`Element Id '${idElemento}' error 💔!`);
+
+    element.innerHTML = this.message;
   }
 }
 ```
+
+---
+
+![Gustavo Hernandez Hidalgo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tavodevcode&layout=donut-vertical&theme=dracula)
+
+<!-- ![Gustavo Hernandez Hidalgo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tavodevcode&show_icons=true&theme=dracula) -->
+
+<!-- **tavodevcode/tavodevcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ---
