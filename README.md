@@ -1,6 +1,6 @@
-# Hi there
+# Hi there✌
 
-**This workspace is designed to help me organize my daily activities using Notion. 💗**
+### **Hola mucho gusto, conoceme un poco más!**
 
 ---
 
@@ -31,3 +31,5 @@ class Message {
   }
 }
 ```
+
+---
