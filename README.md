@@ -2,8 +2,6 @@
 
 ## **Hola mucho gusto, conoceme un poco más!**
 
----
-
 ![https://i.pinimg.com/originals/39/82/8c/39828c7dab661d0a305b43744dd9745e.gif](https://i.pinimg.com/originals/39/82/8c/39828c7dab661d0a305b43744dd9745e.gif)
 
 ```tsx
