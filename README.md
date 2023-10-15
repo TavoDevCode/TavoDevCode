@@ -35,5 +35,4 @@ class Message {
 
 ![Gustavo Hernandez Hidalgo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tavodevcode&layout=donut-vertical&theme=dracula)
 <!-- ![Gustavo Hernandez Hidalgo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tavodevcode&show_icons=true&theme=dracula) -->
-
 ---
