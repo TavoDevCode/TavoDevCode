@@ -35,15 +35,21 @@
         </div>
     </div> -->
 </div>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=tavodevcode&margin-w=15" alt="tavodevcode" />
-</a>
+<br>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tavodevcode&show_icons=true&locale=en&layout=compact" alt="tavodevcode" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tavodevcode&show_icons=true&locale=en" alt="tavodevcode" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tavodevcode&" alt="tavodevcode" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=tavodevcode&margin-w=15" alt="tavodevcode" />
+    </a>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tavodevcode&show_icons=true&locale=en&layout=compact" alt="tavodevcode" />
+</p>
+<p align="center"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=tavodevcode&show_icons=true&locale=en" alt="tavodevcode" />
+</p>
+<p align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tavodevcode&" alt="tavodevcode" />
 </p>
 
 <!-- <div>
