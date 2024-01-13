@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I like to play video games and continue learning new programming languages, my favorite artist is Ariana Grande 💕**
 
-<div style="margin-bottom: 20px; display: flex; justify-content: center; gap: 10px">
+<div style="margin-bottom: 20px; display: flex; justify-content: center; gap: 10px;">
     <img src="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/static/de50ab96ebd3bb4272f73d4d053f50eb/f945d/Murakami_Shiina_Holding_Computer_C_Programming_Language.png" alt="tavodevcode" width="300"height="auto"/>
     <div style="display: flex; flex-direction: column; align-items: center;justify-content: center;">
         <span align="left" style="font-size: 20px; font-weight: 600;">Connect with me:</span>
