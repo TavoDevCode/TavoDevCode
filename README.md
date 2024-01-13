@@ -23,14 +23,14 @@
     <div style="display: flex; flex-direction: column; align-items: center;justify-content: center;">
         <span align="left" style="font-size: 20px; font-weight: 600;">Connect with me:</span>
         <div style="display: flex; align-items: center; gap: 8px; margin-top: 10px">
-            <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavohgo/" target="blank">
+            <a href="https://linkedin.com/in/https://www.linkedin.com/in/gustavohgo/" target="_blank">
                 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gustavohgo/" height="30" width="auto" />
             </a>
-            <a href="https://instagram.com/tavohgo" target="blank">
-                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tavohgo" height="30" width="auto" />
+            <a href="https://instagram.com/tavohgo" target="_blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tavohgo" height="30" width="auto" />
             </a>
-            <a href="https://discord.gg/tavohgo" target="blank">
-                <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tavohgo" height="35" width="auto" />
+            <a href="https://discord.gg/tavohgo" target="_blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tavohgo" height="35" width="auto" />
             </a>
         </div>
     </div>
