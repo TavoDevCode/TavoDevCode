@@ -51,9 +51,10 @@
 <p align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tavodevcode&" alt="tavodevcode" />
 </p>
-<p>
-    <img  src="https://www.otakujournalist.com/wp-content/uploads/2017/09/nene2.png" alt="tavodevcode" />
-</p>
+
+<!-- <p>
+        <img  src="https://www.otakujournalist.com/wp-content/uploads/2017/09/nene2.png" alt="tavodevcode" />
+    </p> -->
 
 <!-- <div>
     <img src="https://i.imgur.com/lnhuXTf.gif" alt="tavodevcode" />
